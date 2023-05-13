@@ -1,0 +1,4 @@
+Il faut installer la bibliothèque opencv pour exécuter le code :
+pip install opencv-python
+
+https://pypi.org/project/opencv-python/
