@@ -2,3 +2,5 @@ Il faut installer la bibliothèque opencv pour exécuter le code :
 pip install opencv-python
 
 https://pypi.org/project/opencv-python/
+
+Pour stopper le code tapez sur la lettre "q" et non sur la croix sinon le code fonctionnera quand même
