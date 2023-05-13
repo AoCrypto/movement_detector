@@ -4,3 +4,5 @@ pip install opencv-python
 https://pypi.org/project/opencv-python/
 
 Pour stopper le code tapez sur la lettre "q" et non sur la croix sinon le code fonctionnera quand même
+
+Le fichier "code.py" s'affiche en petit écran mais la qualité est meilleure
