@@ -5,7 +5,7 @@ import cv2,time
 try:
   video=cv2.VideoCapture(0)
 except:
-  print("Erreur : impossible d'accéder à la caméra")
+  print("Impossible d'accéder à la caméra")
   exit()
 
 # Initialiser la première image de référence
@@ -60,7 +60,7 @@ while True:
       break
   
   else:
-    print("Erreur : image invalide")
+    print("Image invalide")
     break
 
 # Libérer la caméra
